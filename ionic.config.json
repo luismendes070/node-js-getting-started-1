@@ -1,0 +1,8 @@
+{
+  "name": "node-js-getting-started",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "3330b7d3"
+}
